@@ -1,7 +1,7 @@
 <!-- HEADER IMAGE WITH TEXT -->
 <div style="position: relative; text-align: center;">
   <p align="center">
-  <img src="./head.jpg" width="600">
+  <img src="./ReadMeContent/head.jpg" width="600">
 </p>
 <h1>CodeShutter</h1>
 <p>a simple script that make some images from code like code snap (vscode exstention)</p>
@@ -88,5 +88,5 @@ print(a)
 <div style="text-align: center; line-height: 0;">
   <p style="margin:0; padding:0; display:inline;">Bye Bye</p>
   <br/>
-  <img src="./end.png" width="1000" style="margin:0; padding:0; display:inline;"/>
+  <img src="./ReadMeContent/end.png" width="1000" style="margin:0; padding:0; display:inline;"/>
 </div>
