@@ -1,4 +1,3 @@
-<!-- HEADER IMAGE WITH TEXT -->
 <div style="position: relative; text-align: center;">
   <p align="center">
   <img src="./ReadMeContent/head.jpg" width="600">
